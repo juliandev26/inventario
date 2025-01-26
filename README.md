@@ -27,7 +27,6 @@ Cada enfoque se implementa por separado para comparar su rendimiento en término
   - **Bottom-Up:** Construcción iterativa para optimizar rendimiento.
   - **Top-Down:** Uso de memorización para evitar cálculos redundantes.
 - **Comparación de Rendimiento:** Evaluación del tiempo de ejecución y memoria utilizada por cada algoritmo.
-- **Pruebas Unitarias:** Validación de cada implementación con diferentes conjuntos de datos.
 
 ---
 
